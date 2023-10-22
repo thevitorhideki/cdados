@@ -1,0 +1,2002 @@
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
+def amostra_uniforme(n):
+    return [stats.uniform.rvs(loc=10, scale=10, size=n)]
